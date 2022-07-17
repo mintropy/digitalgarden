@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/well-come/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/well-come/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
