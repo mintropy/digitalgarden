@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-11/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"123","permalink":"/123/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
